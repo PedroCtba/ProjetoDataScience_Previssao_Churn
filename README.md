@@ -130,7 +130,7 @@ Aqui é feito uma listagem dos parâmetros possíveis para os algorítimos e tes
 **Arvore:{'criterion': 'gini', 'min_samples_leaf': 10, 'min_samples_split': 15, 'splitter': 'random'}**
 
 **SVM:{'C': 2.0, 'kernel': 'rbf'}**
-obs:gostariade ter testado mais parâmetros no SVM, porém o Colab estava derrubando devido a demora no processo de tunning
+obs:gostaria de ter testado mais parâmetros no SVM, porém o Colab estava derrubando devido a demora no processo de tunning
 
 **Rede Neural:{'activation': 'logistic', 'batch_size': 10, 'solver': 'adam'}**
 
