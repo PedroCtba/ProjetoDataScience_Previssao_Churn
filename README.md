@@ -111,13 +111,13 @@ O resultado inicial foi bastante ruim, tendo em vista que a precisão para a cla
 
 Nesse gráfico podemos observar quais as variáveis com mais ganho de informação são a Idade, Salário, Balanço, Score, Número de Produtos, e quantia de anos ativos.
 
-##SVM
+## SVM
 
 ![image](https://user-images.githubusercontent.com/85971408/129584996-9671a4eb-4812-4ff5-9618-f3dbda612cba.png)
 
 Apesar do bom resultado geral, o resultado ainda deixa a desejar para a classe "1".
 
-##Rede Neural
+## Rede Neural
 
 ![image](https://user-images.githubusercontent.com/85971408/129585422-5f3fb643-0564-4710-accf-fafffdac600e.png)
 
