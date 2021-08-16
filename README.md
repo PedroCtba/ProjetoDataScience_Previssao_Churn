@@ -1,4 +1,4 @@
-# "Aumente o Faturamento da Empresa com Previsão de Churn"
+# Resumo do Notebook: "Aumente o Faturamento da Empresa com Previsão de Churn"
 
 Aqui eu deixo uma versão mais amigável do projeto, onde exponho de forma resumida cada fase do notebook original, dando foco na parte de negócio e resolução, se trata de um projeto-desafio que pode ser encontrado no blog "Seja um Data Scientist". 
 
