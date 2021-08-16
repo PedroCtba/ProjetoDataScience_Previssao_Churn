@@ -134,11 +134,14 @@ Aqui são testados os algoritimos com os padrões melhorados, e com várias comb
 
 # Teste De normalidade:
 Para verificar se os modelos tem resultados próximos, é feito uma validação estatística das distribuições dos resultados, porém esse teste só funciona quando o intervalo de resultados é uma distribuição normal, aqui, antes dos testes comparativos, verificamos se as distribuições de resultados são normais.
-svm
+
+SVM:
 ![image](https://user-images.githubusercontent.com/85971408/129588358-55e35b57-646f-4c62-a7fa-b90a2bdc5036.png)
-arvore
+
+ARVORE:
 ![image](https://user-images.githubusercontent.com/85971408/129588424-ebba9b6a-d1ef-4666-a185-dc5103f6a85b.png)
-rede
+
+REDE NEURAL:
 ![image](https://user-images.githubusercontent.com/85971408/129588465-13038d8f-5cdc-4282-bb6a-0a8f2efc0467.png)
 
 # Teste de hipótese:
