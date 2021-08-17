@@ -65,7 +65,7 @@ Outro fator importante à ser elencado também é o "CreditScore" onde a distrib
 
 ![image](https://user-images.githubusercontent.com/85971408/129578167-7a60fcc0-63ee-4979-8a11-ca579edb497d.png)
 
-No atributo "IsActiveMember" é possível notar que os membros inativos saíram muito mais em termos percentuais que os inativos
+No atributo "IsActiveMember" é possível notar que os membros inativos tiveram um maior percentaul de churn.
 
 ![image](https://user-images.githubusercontent.com/85971408/129578549-a68d599b-cc82-4f7a-aeee-b9027645c89f.png)
 
@@ -169,3 +169,11 @@ Pela avalização de Tukey apenas a árvore de decisão teve um resultado sufici
 # Salvar os parâmetros:
 
 ![image](https://user-images.githubusercontent.com/85971408/129590118-5bc95dd6-4bf4-4fbd-a8ce-94e77292e3b8.png)
+
+# Lista de "Canceladores"
+
+Após concatenar as previsões da Rede Neural (que foi o algroritimo com maior acerto) no DataFrame original, uso o método .loc para separar somente os clientes que o algoritimo deu como possíveis clientes "Canceladores", essa lista pode ser passada para o time comercial da empresa, para que um plano de incentivo seja feito sob esses clientes!
+
+![image](https://user-images.githubusercontent.com/85971408/129726074-406b2bd5-5222-43be-926d-7f92cec16dca.png)
+
+![image](https://user-images.githubusercontent.com/85971408/129726127-267cc2a9-c31d-4bb0-bb57-aed5252950fa.png)
