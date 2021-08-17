@@ -172,7 +172,7 @@ Pela avalização de Tukey apenas a árvore de decisão teve um resultado sufici
 
 # Lista de "Canceladores"
 
-Após concatenar as previsões da Rede Neural (que foi o algroritimo com maior acerto) no DataFrame original, uso o método .loc para separar somente os clientes que o algoritimo deu como possíveis clientes "Canceladores", essa lista pode ser passada para o time comercial da empresa, para que um plano de incentivo seja feito sob esses clientes!
+Após concatenar as previsões da Rede Neural (que foi o algorítmo com maior acerto) no DataFrame original, uso o método.loc para separar somente os clientes que o algorítimo deu como possíveis clientes "Canceladores", essa lista pode ser passada para o time comercial da empresa, para que um plano de incentivo seja feito sob esses clientes!
 
 ![image](https://user-images.githubusercontent.com/85971408/129726074-406b2bd5-5222-43be-926d-7f92cec16dca.png)
 
